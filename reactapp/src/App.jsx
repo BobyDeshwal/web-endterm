@@ -13,7 +13,7 @@ function Child(props) {
 
 
 function App() {
-  // Props data
+ 
   const name = "jack";
   const age = 19;
 
